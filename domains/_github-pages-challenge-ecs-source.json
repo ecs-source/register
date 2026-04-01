@@ -1,0 +1,11 @@
+{
+  "description": "My portfolio",
+  "repo": "https://github.com/ecs-source/ecs-source.github.io",
+  "owner": {
+    "username": "ecs-source",
+    "email": "pravinbrcdm@gmail.com"
+  },
+  "record": {
+    "CNAME": "ecs-source.github.io"
+  }
+}
